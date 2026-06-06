@@ -1,0 +1,20 @@
+{
+  "name": "gtp2-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "description": "Week 3 — Express + MongoDB REST API",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cookie-parser": "^1.4.7",
+    "jsonwebtoken": "^9.0.3",
+    "mongodb-memory-server": "^11.2.0"
+  },
+  "devDependencies": {
+    "jest": "^30.4.2",
+    "supertest": "^7.2.2"
+  }
+}
